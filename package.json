@@ -1,0 +1,23 @@
+{
+  "name": "examen-recuperatorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tamarastefania09/examen-Recuperatorio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tamarastefania09/examen-Recuperatorio/issues"
+  },
+  "homepage": "https://github.com/Tamarastefania09/examen-Recuperatorio#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
